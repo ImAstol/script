@@ -29,7 +29,7 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/
 end)
  
 KillingCheats:CreateButton("Voltar", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/ImAstol/Hub-Key/main/Menu%20key"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ImAstol/script/main/boa"))()
 end)
 -- ___________________
  end)
@@ -53,7 +53,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/3345-c-a-t-s-u-s/-bet
 end)
 
 KillingCheats:CreateButton("voltar", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/ImAstol/Hub-Key/main/Menu%20key"))()
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/ImAstol/script/main/boa"))()
 end)
 end)
 -- ____________________
@@ -95,7 +95,7 @@ KillingCheats:CreateButton("Domadiac ilha nova", function()
 end)
 
 KillingCheats:CreateButton("voltar", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/ImAstol/Hub-Key/main/Menu%20key"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ImAstol/script/main/boa"))()
 
 end)
 end
