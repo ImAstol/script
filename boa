@@ -1,0 +1,101 @@
+        local Library = loadstring(Game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/wizard"))()
+ 
+local PhantomForcesWindow = Library:NewWindow("Ta completo aee")
+ 
+local KillingCheats = PhantomForcesWindow:NewSection("Area de scripts")
+ 
+KillingCheats:CreateButton("Hub scripts universais", function()
+    local Library = loadstring(Game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/wizard"))()
+ 
+local PhantomForcesWindow = Library:NewWindow("Area de scripts S2")
+ 
+local KillingCheats = PhantomForcesWindow:NewSection("Scripts universais")
+ 
+KillingCheats:CreateButton("IY", function()
+    loadstring(Game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
+end)
+ 
+KillingCheats:CreateButton("FPS", function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/VSjtWEDe",true))()
+end)
+ 
+KillingCheats:CreateButton("ShiftLock", function()
+    loadstring(game:HttpGet("https://scriptblox.com/raw/Shiftlock_289"))()
+end)
+
+KillingCheats:CreateButton("Ghost Universal", function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/main/GhostHub'))()
+
+end)
+ 
+KillingCheats:CreateButton("Voltar", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ImAstol/Hub-Key/main/Menu%20key"))()
+end)
+-- ___________________
+ end)
+
+KillingCheats:CreateButton("Hub de blade ball", function()
+    local Library = loadstring(Game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/wizard"))()
+ 
+local PhantomForcesWindow = Library:NewWindow("Combat")
+ 
+local KillingCheats = PhantomForcesWindow:NewSection("Blade Ball scripts S2")
+ 
+KillingCheats:CreateButton("IY", function()
+    loadstring(Game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
+
+end)
+
+KillingCheats:CreateButton("Bedol", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/3345-c-a-t-s-u-s/-beta-/main/AutoParry.lua"))()
+
+end)
+
+KillingCheats:CreateButton("voltar", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ImAstol/Hub-Key/main/Menu%20key"))()
+end)
+end)
+-- ____________________
+KillingCheats:CreateButton("Hub de Blox Fruits", function()
+    local Library = loadstring(Game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/wizard"))()
+ 
+local PhantomForcesWindow = Library:NewWindow("Blox Fruits")
+ 
+local KillingCheats = PhantomForcesWindow:NewSection("Blox Fruits HUB S2")
+ 
+KillingCheats:CreateButton("Blox update 20", function()
+ loadstring(game:HttpGet('https://raw.githubusercontent.com/REWzaKunGz1/premium/main/PadoHub'))()
+
+end)
+
+KillingCheats:CreateButton("HoHo Hub pegando triple dark blade", function()
+
+_G.HohoVersion = "v3"
+loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI'))() 
+
+end)
+
+KillingCheats:CreateButton("Blox Script 2 Ilha nova", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Tsuo7/TsuoHub/main/Tsuoscripts"))()
+
+end)
+
+KillingCheats:CreateButton("Blox fruits 3", function()
+
+_G.Mode = "English"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Tuxoz/VectorHub/main/MBPC"))()
+
+end)
+
+
+KillingCheats:CreateButton("Domadiac ilha nova", function()
+    loadstring(game:HttpGet("https://scriptblox.com/raw/Blox-Fruits-DOMADIC-HUB-REACH-MAX-LEVEL-EASILY-8208"))()
+end)
+
+KillingCheats:CreateButton("voltar", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ImAstol/Hub-Key/main/Menu%20key"))()
+
+end)
+end
