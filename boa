@@ -98,4 +98,4 @@ KillingCheats:CreateButton("voltar", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ImAstol/script/main/boa"))()
 
 end)
-end
+end)
